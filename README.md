@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haoxiang Zhang (IsaacGHX)</h1>
+<h1 align="center">Hi 👋, I'm Haoxiang Zhang (Isaac)</h1>
 <h3 align="center">A passionate Data Science researcher and ML engineer from China 🇨🇳</h3>
 
 <p align="center">
