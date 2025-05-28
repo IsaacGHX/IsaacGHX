@@ -9,7 +9,6 @@
 
 - 🎓 I'm currently pursuing my Bachelor's degree in **Data Science & Big Data Technology** at Shanghai University
 - 🔭 I'm currently working on **Multimodal ML Models** at Shanghai AI Lab
-- 🌱 I'm currently learning **Large Language Models, Computer Vision, and Knowledge Graphs**
 - 📝 I have publications in **CIKM'24** and **Mathematics**
 - 💡 I'm interested in **AI, Machine Learning, and Data Science**
 - 🌟 2024 Goals: Contribute more to the AI research community
