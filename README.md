@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing my Bachelor's degree in **Data Science & Big Data Technology** at Shanghai University
-- 🔭 I'm currently working on **Multimodal ML Models** at Shanghai AI Lab
+  - 🔭 I'm currently working on **Multi-agent Quant Investment**.
 - 📝 I have publications in **CIKM'24** and **Mathematics**
 - 💡 I'm interested in **AI, Machine Learning, and Data Science**
-- 🌟 2024 Goals: Contribute more to the AI research community
+- 🌟 2025 Goals: Contribute more to the AI research community
 
 ### 🚀 Recent Achievements
 
