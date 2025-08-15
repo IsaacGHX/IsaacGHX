@@ -7,36 +7,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing my Bachelor's degree in **Data Science & Big Data Technology** at Shanghai University
-  - 🔭 I'm currently working on **Multi-agent Quant Investment**.
-- 📝 I have publications in **CIKM'24** and **Mathematics**
-- 💡 I'm interested in **AI, Machine Learning, and Data Science**
-- 🌟 2025 Goals: Contribute more to the AI research community
-
-### 🚀 Recent Achievements
-
-- 🏆 Gold Prize, International University Student Innovation Competition
-- 🎯 First Prize, Shanghai University AI Innovation Competition
-- 📊 Published research on Knowledge Graph Completion and Image Processing
-
-### 🛠 Technical Stack
-
-```python
-{
-    'Languages': ['Python', 'C++', 'SQL'],
-    'ML/DL': ['PyTorch', 'TensorFlow', 'Scikit-learn'],
-    'Big Data': ['Spark', 'Pandas', 'NumPy'],
-    'Tools': ['Git', 'Flask', 'MATLAB', 'LaTeX']
-}
-```
-
-### 📫 How to reach me
-
-- 📧 Email: zhanghaoxiang_25f@163.com
-- 🌐 Portfolio: [IsaacGHX.github.io](https://IsaacGHX.github.io)
-
-### ⚡ Fun fact
-When I'm not coding or researching, you can find me exploring new AI papers and implementing interesting algorithms. I believe in the power of AI to solve real-world problems and make the world a better place.
+Welcome to my homepage =w=/ 
+[IsaacGHX.github.io](https://IsaacGHX.github.io)
 
 ---
 
