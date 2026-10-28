@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haoxiang Zhang (Isaac)</h1>
+<h1 align="center">Hi 👋, I'm Haoxiang (Isaac) Zhang </h1>
 <h3 align="center">A passionate Data Science Researcher and ML Engineer. </h3>
 
 
